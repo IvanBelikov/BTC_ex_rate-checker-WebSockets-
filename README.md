@@ -1,0 +1,2 @@
+<h1>Websockets practice</h1>
+<p>This is a simple example of using websocket protocol in python. The script contains a code that take a data from Binance by WSS protocol about Bitcoin exchange rate and then draw a graph.</p>
